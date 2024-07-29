@@ -1,2 +1,1 @@
-# Kayyum
-Brick Blocker Game
+# Brick Blocker Game
